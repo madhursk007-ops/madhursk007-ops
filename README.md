@@ -1,58 +1,104 @@
-# Hi, I'm Madhur Khadabadi 👋
+# Hey, I'm Madhur Khadabadi 👋
 
-**Final-year B.E. Information Science & Engineering student | Software Engineering & Full-Stack Development**
+### Software Engineering Student · Full-Stack Developer · Lifelong Learner
 
-I'm a software development enthusiast based in Karnataka, India, graduating in **July 2027**. I enjoy building practical web applications, working with databases, and improving software through debugging and testing.
+I'm a final-year **B.E. Information Science & Engineering** student at **Bapuji Institute of Engineering and Technology, Davangere**, graduating in **July 2027**.
 
-I have **10 months of internship experience** across full-stack development and cybersecurity.
+I enjoy turning ideas into useful software—building web applications, working with databases, and making products more reliable through debugging and testing. I bring **10 months of internship experience** across full-stack development and cybersecurity.
 
-## 👨‍💻 Technical Skills
+**📍 Karnataka, India** · **🎯 Open to software engineering and full-stack development internships**
 
-| Area | Technologies |
+---
+
+## 🚀 Start Here
+
+If you're visiting my profile for the first time, these are the best places to explore:
+
+| | What you'll find |
 |---|---|
-| Programming | Python (Intermediate), Java (Basic), SQL |
-| Web | HTML5, CSS3, JavaScript |
-| Backend & Databases | Python backend development, MySQL, relational database design, basic API development |
-| Core CS | OOP, DBMS, basic Data Structures & Algorithms, SDLC |
-| Tools | Git, GitHub, VS Code, Linux (Basic) |
-| Additional exposure | Pandas, NumPy, Excel, Power BI (Basic), network security fundamentals |
+| 🌐 **[Portfolio](https://madhursk007-ops.github.io/madhur-portfolio/)** | A quick overview of my work and projects |
+| 📄 **[View my CV](https://madhursk007-ops.github.io/madhur-portfolio/CV.html)** | Education, experience, skills, and projects |
+| 💻 **[ClipConnect source code](https://github.com/madhursk007-ops/ClipConnect)** | Explore the code behind my video-editor marketplace project |
+| ✨ **[ClipConnect — GitHub Pages demo](https://madhursk007-ops.github.io/ClipConnect/)** | Try the interactive prototype with sample data |
+| 🚀 **[ClipConnect — Full application](https://clipconnect-ce56.onrender.com)** | Open the full-stack application |
 
-## 🚀 Featured Projects
+> **About the two ClipConnect demos:** GitHub Pages hosts an interactive prototype using sample data. The Render deployment is the full-stack application with backend and database functionality.
 
-### Clip Connect — Freelancer & Client Collaboration Platform
-A platform concept for connecting freelancers and clients through project collaboration workflows.
+---
 
-**Focus areas:** user authentication, profiles, project posting and applications, dashboards, database design, and reviews.
+## 🧰 Skills & Technologies
 
-[View repository](https://github.com/madhursk007-ops/ClipConnect)
+| Area | Skills |
+|---|---|
+| **Programming** | Python (Intermediate), Java (Basic), SQL |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Backend & Databases** | Python backend development, MySQL, relational database design, basic API development |
+| **Computer Science** | OOP, DBMS, basic Data Structures & Algorithms, SDLC |
+| **Data & Analytics** | Pandas, NumPy, Excel, Power BI (Basic) |
+| **Tools & Platforms** | Git, GitHub, VS Code, Linux (Basic) |
+| **Cybersecurity** | Network security fundamentals, vulnerability assessment |
+
+---
+
+## 💡 Featured Projects
+
+### ClipConnect — Video Editor Marketplace
+A platform concept designed to connect video editors with clients and content creators.
+
+- Separate client and editor workflows
+- Profiles, project discovery, project posting, and proposals
+- Full-stack implementation using React, Node.js, Express, PostgreSQL, and Prisma
+
+**Explore:** [Repository](https://github.com/madhursk007-ops/ClipConnect) · [Interactive prototype](https://madhursk007-ops.github.io/ClipConnect/) · [Full application](https://clipconnect-ce56.onrender.com)
 
 ### Study Mate — AI-Assisted Learning Platform
 An educational project focused on personalized study recommendations and learning resources.
 
-## 💼 Experience
+---
 
-- **Full-Stack Development Intern — UILATECK Pvt. Ltd. (4 months):** Worked on responsive web interfaces, frontend/backend integration, database connectivity, basic API development, debugging, and testing.
-- **Cybersecurity Intern — Winsun Global Tech Pvt. Ltd. (6 months):** Gained experience with network security fundamentals, vulnerability assessment, risk analysis, and security documentation.
+## 💼 Internship Experience
 
-## 🎓 Education
+**Full-Stack Development Intern — UILATECK Pvt. Ltd.**  
+*4 months*
+- Worked on responsive web interfaces and frontend/backend integration.
+- Gained practical experience with database connectivity, basic API development, debugging, and testing.
 
-- **B.E. — Information Science & Engineering**, Bapuji Institute of Engineering and Technology, Davangere — 2024–2027 (expected July 2027)
-- **Diploma — Computer Science Engineering**, Motichand Lengade Bharatesh Polytechnic, Belagavi — 2021–2024
-
-## 🌱 Currently Focusing On
-
-- Strengthening software engineering fundamentals
-- Building and documenting complete, reliable projects
-- Improving backend development, databases, and testing
-- Learning through practical development and code reviews
-
-## 🤝 Connect With Me
-
-- **Portfolio:** [Open my portfolio](https://madhursk007-ops.github.io/madhur-portfolio/)
-- **CV:** [View / print my CV](https://madhursk007-ops.github.io/madhur-portfolio/CV.html)
-- **LinkedIn:** [Madhur S. Khadabadi](https://linkedin.com/in/madhur-s-khadabadi-7a82a3288)
-- **Email:** [madhursk007@gmail.com](mailto:madhursk007@gmail.com)
+**Cybersecurity Intern — Winsun Global Tech Pvt. Ltd.**  
+*6 months*
+- Built foundational experience in network security and vulnerability assessment.
+- Worked with risk analysis and security documentation.
 
 ---
 
-*Open to software engineering and full-stack development internship opportunities.*
+## 🎓 Education
+
+**B.E. — Information Science & Engineering**  
+Bapuji Institute of Engineering and Technology, Davangere · 2024–2027  
+*Expected graduation: July 2027*
+
+**Diploma — Computer Science Engineering**  
+Motichand Lengade Bharatesh Polytechnic, Belagavi · 2021–2024
+
+---
+
+## 🌱 What I'm Working On
+
+- Strengthening software engineering and problem-solving fundamentals
+- Building and documenting complete, reliable applications
+- Improving backend development, database design, and testing
+- Learning through practical development and code reviews
+
+---
+
+## 🤝 Let's Connect
+
+I'm happy to connect about software development, internships, collaboration, and interesting ideas.
+
+- **LinkedIn:** [Madhur S. Khadabadi](https://linkedin.com/in/madhur-s-khadabadi-7a82a3288)
+- **Email:** [madhursk007@gmail.com](mailto:madhursk007@gmail.com)
+- **Portfolio:** [madhursk007-ops.github.io/madhur-portfolio](https://madhursk007-ops.github.io/madhur-portfolio/)
+- **CV:** [View my CV](https://madhursk007-ops.github.io/madhur-portfolio/CV.html)
+
+---
+
+*Thanks for stopping by. Feel free to explore my repositories and reach out!* 
