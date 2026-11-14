@@ -1,27 +1,57 @@
 # Hi, I'm Madhur Khadabadi 👋
 
-Final-year B.E. student in Information Science & Engineering at Bapuji Institute of Engineering and Technology (2024–2027).
+**Final-year B.E. Information Science & Engineering student | Software Engineering & Full-Stack Development**
 
-I have 10 months of internship experience in full-stack development and cybersecurity.
+I'm a software development enthusiast based in Karnataka, India, graduating in **July 2027**. I enjoy building practical web applications, working with databases, and improving software through debugging and testing.
 
-## Skills
-Python, Java (basic), SQL, HTML, CSS, JavaScript, MySQL, DBMS, basic API development, Git, GitHub, Pandas, NumPy, Excel, basic Power BI, Linux fundamentals, network security, vulnerability assessment.
+I have **10 months of internship experience** across full-stack development and cybersecurity.
 
-## Projects
-- **Clip Connect** — Freelancer and client collaboration platform built with Python, HTML, CSS, JavaScript and MySQL. Includes authentication, profiles, project posting/applications, dashboards, communication, and reviews.
-- **Study Mate** — AI-assisted learning platform with personalized study recommendations and learning resources.
+## 👨‍💻 Technical Skills
 
-## Experience
-- **Full-Stack Development Intern — UILATECK Pvt. Ltd. (4 months):** Responsive interfaces, frontend/backend integration, database integration, basic APIs, debugging and testing.
-- **Cybersecurity Intern — Winsun Global Tech Pvt. Ltd. (6 months):** Network security, vulnerability assessment, risk analysis, threat monitoring and documentation.
+| Area | Technologies |
+|---|---|
+| Programming | Python (Intermediate), Java (Basic), SQL |
+| Web | HTML5, CSS3, JavaScript |
+| Backend & Databases | Python backend development, MySQL, relational database design, basic API development |
+| Core CS | OOP, DBMS, basic Data Structures & Algorithms, SDLC |
+| Tools | Git, GitHub, VS Code, Linux (Basic) |
+| Additional exposure | Pandas, NumPy, Excel, Power BI (Basic), network security fundamentals |
 
-## Education
-- B.E. Information Science & Engineering — Bapuji Institute of Engineering and Technology, Davangere (2024–2027, pursuing)
-- Diploma in Computer Science Engineering — Motichand Lengade Bharatesh Polytechnic, Belagavi (2021–2024), CGPA 7.2
+## 🚀 Featured Projects
 
-## Contact
-- Email: madhursk007@gmail.com
-- LinkedIn: https://linkedin.com/in/madhur-s-khadabadi-7a82a3288
-- Location: Belagavi, Karnataka, India
+### Clip Connect — Freelancer & Client Collaboration Platform
+A platform concept for connecting freelancers and clients through project collaboration workflows.
 
-Open to Software Engineer Intern and entry-level software development opportunities.
+**Focus areas:** user authentication, profiles, project posting and applications, dashboards, database design, and reviews.
+
+[View repository](https://github.com/madhursk007-ops/ClipConnect)
+
+### Study Mate — AI-Assisted Learning Platform
+An educational project focused on personalized study recommendations and learning resources.
+
+## 💼 Experience
+
+- **Full-Stack Development Intern — UILATECK Pvt. Ltd. (4 months):** Worked on responsive web interfaces, frontend/backend integration, database connectivity, basic API development, debugging, and testing.
+- **Cybersecurity Intern — Winsun Global Tech Pvt. Ltd. (6 months):** Gained experience with network security fundamentals, vulnerability assessment, risk analysis, and security documentation.
+
+## 🎓 Education
+
+- **B.E. — Information Science & Engineering**, Bapuji Institute of Engineering and Technology, Davangere — 2024–2027 (expected July 2027)
+- **Diploma — Computer Science Engineering**, Motichand Lengade Bharatesh Polytechnic, Belagavi — 2021–2024
+
+## 🌱 Currently Focusing On
+
+- Strengthening software engineering fundamentals
+- Building and documenting complete, reliable projects
+- Improving backend development, databases, and testing
+- Learning through practical development and code reviews
+
+## 🤝 Connect With Me
+
+- **Portfolio:** [madhursk007-ops.github.io/madhur-portfolio](https://madhursk007-ops.github.io/madhur-portfolio/)
+- **LinkedIn:** [Madhur S. Khadabadi](https://linkedin.com/in/madhur-s-khadabadi-7a82a3288)
+- **Email:** [madhursk007@gmail.com](mailto:madhursk007@gmail.com)
+
+---
+
+*Open to software engineering and full-stack development internship opportunities.*
