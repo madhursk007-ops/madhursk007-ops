@@ -48,7 +48,8 @@ An educational project focused on personalized study recommendations and learnin
 
 ## 🤝 Connect With Me
 
-- **Portfolio:** [madhursk007-ops.github.io/madhur-portfolio](https://madhursk007-ops.github.io/madhur-portfolio/)
+- **Portfolio:** [Open my portfolio](https://madhursk007-ops.github.io/madhur-portfolio/)
+- **CV:** [View / print my CV](https://madhursk007-ops.github.io/madhur-portfolio/CV.html)
 - **LinkedIn:** [Madhur S. Khadabadi](https://linkedin.com/in/madhur-s-khadabadi-7a82a3288)
 - **Email:** [madhursk007@gmail.com](mailto:madhursk007@gmail.com)
 
