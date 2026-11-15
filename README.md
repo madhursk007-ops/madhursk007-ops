@@ -18,6 +18,8 @@ If you're visiting my profile for the first time, these are the best places to e
 |---|---|
 | 🌐 **[Portfolio](https://madhursk007-ops.github.io/madhur-portfolio/)** | A quick overview of my work and projects |
 | 📄 **[View my CV](https://madhursk007-ops.github.io/madhur-portfolio/CV.html)** | Education, experience, skills, and projects |
+| 🎬 **[MADHURPLAY — Live movie discovery platform](https://madhurplay-live.onrender.com)** | Explore trending movies, search, genres, trailers and personal watchlists |
+| 🧩 **[MADHURPLAY source code](https://github.com/madhursk007-ops/MADHURPLAY)** | React/Vite frontend, FastAPI backend and TMDB integration |
 | 💻 **[ClipConnect source code](https://github.com/madhursk007-ops/ClipConnect)** | Explore the code behind my video-editor marketplace project |
 | ✨ **[ClipConnect — GitHub Pages demo](https://madhursk007-ops.github.io/ClipConnect/)** | Try the interactive prototype with sample data |
 | 🚀 **[ClipConnect — Full application](https://clipconnect-ce56.onrender.com)** | Open the full-stack application |
@@ -50,6 +52,16 @@ A platform concept designed to connect video editors with clients and content cr
 - Full-stack implementation using React, Node.js, Express, PostgreSQL, and Prisma
 
 **Explore:** [Repository](https://github.com/madhursk007-ops/ClipConnect) · [Interactive prototype](https://madhursk007-ops.github.io/ClipConnect/) · [Full application](https://clipconnect-ce56.onrender.com)
+
+### MADHURPLAY — Movie Discovery Platform
+A deployed full-stack movie discovery application powered by TMDB.
+
+- Trending movie discovery, search, and genre browsing
+- Movie detail pages with trailers and credits
+- User registration/login and personal watchlists
+- React + Vite frontend, Python FastAPI backend, TMDB API
+
+**Explore:** [Live application](https://madhurplay-live.onrender.com) · [Repository](https://github.com/madhursk007-ops/MADHURPLAY)
 
 ### Study Mate — AI-Assisted Learning Platform
 An educational project focused on personalized study recommendations and learning resources.
