@@ -1,110 +1,125 @@
-# Hey, I'm Madhur Khadabadi 👋
+# Hi, I'm Madhur Khadabadi 👋
 
-### Software Engineering Student · Full-Stack Developer · Lifelong Learner
+### Software Engineering Student · Full-Stack Developer
 
-I'm a final-year **B.E. Information Science & Engineering** student at **Bapuji Institute of Engineering and Technology, Davangere**, graduating in **July 2027**.
+I'm a B.E. Information Science & Engineering student at **Bapuji Institute of Engineering and Technology, Davangere**, expected to graduate in **2027**.
 
-I enjoy turning ideas into useful software—building web applications, working with databases, and making products more reliable through debugging and testing. I bring **10 months of internship experience** across full-stack development and cybersecurity.
+I enjoy building practical web applications, connecting frontend experiences with backend services, and learning how to design, deploy, and improve software.
 
-**📍 Karnataka, India** · **🎯 Open to software engineering and full-stack development internships**
-
----
-
-## 🚀 Start Here
-
-If you're visiting my profile for the first time, these are the best places to explore:
-
-| | What you'll find |
-|---|---|
-| 🌐 **[Portfolio](https://madhursk007-ops.github.io/madhur-portfolio/)** | A quick overview of my work and projects |
-| 📄 **[View my CV](https://madhursk007-ops.github.io/madhur-portfolio/CV.html)** | Education, experience, skills, and projects |
-| 🎬 **[MADHURPLAY — Live movie discovery platform](https://madhurplay-live.onrender.com)** | Explore trending movies, search, genres, trailers and personal watchlists |
-| 🧩 **[MADHURPLAY source code](https://github.com/madhursk007-ops/MADHURPLAY)** | React/Vite frontend, FastAPI backend and TMDB integration |
-| 💻 **[ClipConnect source code](https://github.com/madhursk007-ops/ClipConnect)** | Explore the code behind my video-editor marketplace project |
-| ✨ **[ClipConnect — GitHub Pages demo](https://madhursk007-ops.github.io/ClipConnect/)** | Try the interactive prototype with sample data |
-| 🚀 **[ClipConnect — Full application](https://clipconnect-ce56.onrender.com)** | Open the full-stack application |
-
-> **About the two ClipConnect demos:** GitHub Pages hosts an interactive prototype using sample data. The Render deployment is the full-stack application with backend and database functionality.
+📍 Karnataka, India · Open to software engineering and full-stack development opportunities
 
 ---
 
-## 🧰 Skills & Technologies
+## 👨‍💻 Explore my work
 
-| Area | Skills |
-|---|---|
-| **Programming** | Python (Intermediate), Java (Basic), SQL |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Backend & Databases** | Python backend development, MySQL, relational database design, basic API development |
-| **Computer Science** | OOP, DBMS, basic Data Structures & Algorithms, SDLC |
-| **Data & Analytics** | Pandas, NumPy, Excel, Power BI (Basic) |
-| **Tools & Platforms** | Git, GitHub, VS Code, Linux (Basic) |
-| **Cybersecurity** | Network security fundamentals, vulnerability assessment |
+| Project | What it is | Links |
+|---|---|---|
+| **CLIP CONNECT** | A video-editor marketplace concept with separate client and editor experiences | [Repository](https://github.com/madhursk007-ops/ClipConnect) · [Prototype](https://madhursk007-ops.github.io/ClipConnect/) · [Full application](https://clipconnect-ce56.onrender.com) |
+| **MADHUR PLAY** | A movie-discovery application powered by TMDB | [Repository](https://github.com/madhursk007-ops/MADHURPLAY) · [Live app](https://madhurplay-live.onrender.com) |
+| **My Portfolio** | My projects, skills, background, and contact information | [Visit portfolio](https://madhursk007-ops.github.io/madhur-portfolio/) |
+
+**Demo note:** The CLIP CONNECT GitHub Pages link is an interactive prototype with sample data. The Render link is the full-stack application.
 
 ---
 
-## 💡 Featured Projects
+## 🧰 Technologies
 
-### ClipConnect — Video Editor Marketplace
-A platform concept designed to connect video editors with clients and content creators.
+### Languages
+- JavaScript
+- Python
+- Java (basic)
+- SQL
 
-- Separate client and editor workflows
-- Profiles, project discovery, project posting, and proposals
-- Full-stack implementation using React, Node.js, Express, PostgreSQL, and Prisma
+### Frontend
+- React
+- HTML5 and CSS3
+- Vite
+- React Router
+- Zustand
+- Axios
+- Framer Motion
 
-**Explore:** [Repository](https://github.com/madhursk007-ops/ClipConnect) · [Interactive prototype](https://madhursk007-ops.github.io/ClipConnect/) · [Full application](https://clipconnect-ce56.onrender.com)
+### Backend and data
+- Node.js and Express
+- Python and FastAPI
+- PostgreSQL
+- Prisma ORM
+- SQLAlchemy
 
-### MADHURPLAY — Movie Discovery Platform
-A deployed full-stack movie discovery application powered by TMDB.
+### APIs, integrations and tools
+- REST APIs
+- TMDB API
+- Socket.IO
+- Cloudinary integration
+- Stripe integration
+- Git and GitHub
+- Render
+- GitHub Pages and GitHub Actions
 
-- Trending movie discovery, search, and genre browsing
-- Movie detail pages with trailers and credits
-- User registration/login and personal watchlists
-- React + Vite frontend, Python FastAPI backend, TMDB API
-
-**Explore:** [Live application](https://madhurplay-live.onrender.com) · [Repository](https://github.com/madhursk007-ops/MADHURPLAY)
-
-### Study Mate — AI-Assisted Learning Platform
-An educational project focused on personalized study recommendations and learning resources.
+*Technology lists describe tools present in my project repositories; individual integrations and features may still be under development.*
 
 ---
 
-## 💼 Internship Experience
+## 🚀 Featured projects
 
-**Full-Stack Development Intern — UILATECK Pvt. Ltd.**  
-*4 months*
-- Worked on responsive web interfaces and frontend/backend integration.
-- Gained practical experience with database connectivity, basic API development, debugging, and testing.
+### CLIP CONNECT — Video Editor Marketplace
 
-**Cybersecurity Intern — Winsun Global Tech Pvt. Ltd.**  
-*6 months*
-- Built foundational experience in network security and vulnerability assessment.
-- Worked with risk analysis and security documentation.
+A full-stack marketplace project intended to connect video editors with clients and content creators.
+
+- Separate client and editor experiences
+- Project discovery, project posting, and proposals
+- React frontend with a Node.js and Express API
+- PostgreSQL database with Prisma ORM
+- Repository also includes a standalone HTML/CSS/JavaScript frontend and an interactive prototype
+
+**Explore:** [Source code](https://github.com/madhursk007-ops/ClipConnect) · [Prototype](https://madhursk007-ops.github.io/ClipConnect/) · [Full application](https://clipconnect-ce56.onrender.com)
+
+### MADHUR PLAY — Movie Discovery Platform
+
+A full-stack movie-discovery application using movie metadata from TMDB.
+
+- Browse trending movies and genres
+- Search and view movie details, credits, and trailer links
+- User registration, login, and personal watchlists
+- React and Vite frontend
+- Python FastAPI backend with SQLAlchemy
+
+**Explore:** [Live application](https://madhurplay-live.onrender.com) · [Source code](https://github.com/madhursk007-ops/MADHURPLAY)
+
+---
+
+## 💼 Experience
+
+- **Full-Stack Development Intern — UILATECK Pvt. Ltd.**
+  - Experience with responsive web interfaces and frontend/backend integration.
+  - Worked with database connectivity, API development, debugging, and testing.
+
+- **Cybersecurity Intern — Winsun Global Tech Pvt. Ltd.**
+  - Exposure to network security and vulnerability assessment.
+  - Worked with risk analysis and security documentation.
 
 ---
 
 ## 🎓 Education
 
 **B.E. — Information Science & Engineering**  
-Bapuji Institute of Engineering and Technology, Davangere · 2024–2027  
-*Expected graduation: July 2027*
+Bapuji Institute of Engineering and Technology, Davangere · 2024–2027
 
 **Diploma — Computer Science Engineering**  
 Motichand Lengade Bharatesh Polytechnic, Belagavi · 2021–2024
 
 ---
 
-## 🌱 What I'm Working On
+## 🌱 Currently focused on
 
-- Strengthening software engineering and problem-solving fundamentals
-- Building and documenting complete, reliable applications
-- Improving backend development, database design, and testing
-- Learning through practical development and code reviews
+- Building complete, reliable full-stack applications
+- Strengthening backend development and database design
+- Improving software engineering fundamentals and problem-solving
+- Writing clearer project documentation and learning through testing
 
 ---
 
-## 🤝 Let's Connect
-
-I'm happy to connect about software development, internships, collaboration, and interesting ideas.
+## 🤝 Connect with me
 
 - **LinkedIn:** [Madhur S. Khadabadi](https://linkedin.com/in/madhur-s-khadabadi-7a82a3288)
 - **Email:** [madhursk007@gmail.com](mailto:madhursk007@gmail.com)
@@ -113,4 +128,4 @@ I'm happy to connect about software development, internships, collaboration, and
 
 ---
 
-*Thanks for stopping by. Feel free to explore my repositories and reach out!* 
+Thanks for visiting. Feel free to explore my repositories and connect!
